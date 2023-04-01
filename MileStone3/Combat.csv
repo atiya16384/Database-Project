@@ -1,0 +1,8 @@
+BattleDate,BattleNo,Attacker,Defender,Weapon,Result,Damage
+15-May-23,5481,Calvin,SneakySue,Axe,Hit,87
+15-May-23,5481,SneakySue,Calvin,Dagger,Miss,0
+15-May-23,5481,Calvin,SneakySue,Axe,Hit,94
+15-May-23,5481,SneakySue,Calvin,Dagger,Parry,0
+15-May-23,5481,Calvin,SneakySue,Axe ,Hit,78
+15-May-23,5481,SneakySue,Calvin,Dagger,Hit,14
+15-May-23,5481,Calvin,SneakySue,Axe,Victory,112

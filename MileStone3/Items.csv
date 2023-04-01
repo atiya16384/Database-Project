@@ -1,0 +1,15 @@
+Character,Item,Item_Type,WeaponType,Range,Price,Quantity,DefendScore,AttackScore,HealingScore,ManaScore,SingleUse,wearable,worn,BodyPart,Equipped
+juju97,Broadsword,Weapon,Melee,,175,1,,24,,,0,0,,,1
+juju97,breastplate,Armour,,,290,1,18,,,,0,1,1,torso,0
+juju97,slingshot,Weapon,Projectile,30,50,1,,13,,,0,0,,,0
+Uraz-The-Magnificent,Wizard's Staff,Artefact,,,3500,1,0,0,,37,0,,,,1
+Uraz-The-Magnificent,Wizard's Robe,Clothing,,,2000,1,10,,,,,1,1,torso,0
+juju97,Tunic,Clothing,,,5,1,1,0,,,0,1,1,torso,
+Uraz-The-Magnificent,Apple,Food,,,1,1,,,10,,1,,,,0
+juju97,Bread,Food,,,0.75,3,,,8,,1,,,,0
+SneakySue,Dagger,Weapon,Melee,,12,1,1,10,0,,0,0,,,1
+SpacemanSpiff,Transmogrifier,Artefact,,,54000,1,,,,500,0,0,,,1
+SpacemanSpiff,Can of Tuna,Food,,,3,4,,,15,,1,0,,,1
+Calvin,Axe,Weapon,Melee,,80,1,,,,,,,,,1
+juju97,Cloak of Invisibility,Clothing,,,4500,1,,,,75,,1,0,torso,
+Uraz-The-Magnificent,Cheese,Food,,,6,10,,,12,,1,0,0,,0
