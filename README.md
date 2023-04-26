@@ -13,4 +13,4 @@ Commented about normalisation level
 MILESTONE 3:
 Implemented code in SQLITE by creating a java library.
 
-Received an A grade.
+Received a mark of 94.00/100.00
