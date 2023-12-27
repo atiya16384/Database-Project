@@ -1,16 +1,29 @@
-# Database-Project
-Sqlite and java
-MILESTONE 1:
-Created E-R Diagram
 
-MILESTONE 2:
-Came up with relational schema.
-Included relevant integrity constraints.
-Included primary and foreign keys etc.
-Created SQL DDL Statements.
-Normalisation level report
+# Database Project: SQLite and Java
 
-MILESTONE 3:
-Implemented code in SQLITE by creating a java library.
+## Overview
+This project involves the development of a database application using SQLite and Java. It covers the complete process from designing the database schema to implementing the database in SQLite and developing a Java library to interact with it.
 
-Received a mark of 94/100- A grade
+## Milestones
+
+### MILESTONE 1: E-R Diagram
+- Creation of an Entity-Relationship (E-R) Diagram to model the database.
+
+### MILESTONE 2: Relational Schema and SQL DDL Statements
+- Development of a relational schema based on the E-R Diagram.
+- Inclusion of integrity constraints, primary keys, and foreign keys.
+- Creation of SQL Data Definition Language (DDL) Statements.
+- Normalization level report to ensure optimal database design.
+
+### MILESTONE 3: Implementation in SQLite and Java Library
+- Implementation of the database in SQLite.
+- Development of a Java library for database operations and interactions.
+
+## Achievement
+- Received a grade of 94/100 (A grade) for the project, highlighting the quality and effectiveness of the implementation.
+
+## License
+Specify the license under which this project is released.
+
+## Contact
+Your contact information for users to reach out with questions or collaborations.
