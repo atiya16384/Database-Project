@@ -23,7 +23,8 @@ This project involves the development of a database application using SQLite and
 - Received a grade of 94/100 (A grade) for the project, highlighting the quality and effectiveness of the implementation.
 
 ## License
-Specify the license under which this project is released.
+
 
 ## Contact
-Your contact information for users to reach out with questions or collaborations.
+
+
